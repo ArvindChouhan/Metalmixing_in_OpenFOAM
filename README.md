@@ -6,3 +6,6 @@ OpenFoam v2006
 
 # Attachemnts:
 1. Case file  2. Solver
+
+# Cite
+DOI:10.5281/zenodo.6337619 
